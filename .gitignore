@@ -1,0 +1,1 @@
+node_modules/\n.env\n.env.production\nbackend/node_modules/\nbackend/dist/\nfrontend/node_modules/\nfrontend/dist/\n.gitignore
